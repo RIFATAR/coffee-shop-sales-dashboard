@@ -12,7 +12,9 @@ This repository contains a data analysis and visualization portfolio project bas
 ## Dashboard Snapshot
 
 Below is a snapshot of the sales dashboard created for this project:
-![![Coffee Shop Dashboard](DaskBoard.JPG)
+![Coffee Shop Dashboard](images/dashboard.jpg)
+
+
 
 The dashboard conveys total revenue, footfall, average bill, and orders per person, along with breakdowns by hour, weekday, month, store location, product category, and size distribution.
 
